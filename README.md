@@ -3,3 +3,5 @@ Jupyter file containing the data analysis conducted on a simulation written in C
 
 ## Description
 The programme pre-written by my lecturer was a C++ project simulating a 2D Ising model, a thermodynamic system comprised of particles in a square lattice formation that randomly 'flip' between up and down states. The aim of this project was to determine what effect temperature has on the system of particles, and exploring different ways of modelling and analysing the system to explain its behaviour.
+
+![image](https://github.com/Ecoyle33/Comp-B-Ising-Model/assets/92370561/38dbcc25-5f74-4a99-aebc-50fd51268a58)
